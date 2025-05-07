@@ -1,0 +1,1 @@
+# disable-youtube-focus-effect
